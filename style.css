@@ -1,0 +1,22 @@
+.blockimp{
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    background-color: white;
+    width: 554px;
+    border-style: ridge;
+    border-width: 20px;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.latexmas{
+	background:url(https://papers.co/wallpaper/papers.co-vy14-simple-dark-pattern-background-34-iphone6-plus-wallpaper.jpg);
+}
+.box{
+	background-color: white;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	width: 800px;
+	border-style: groove;
+	margin: 100px;
+	border-width: 20px;
+}
